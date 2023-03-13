@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from Dokuz Eylul University Computer Engineering Department. I am interested in artificial intelligence, machine learning and I am trying to improve myself in this regard. I have developed projects in programming languages such as Java, Python, C, C#. I have experienced in DevOps.
+I graduated from Dokuz Eylul University Computer Engineering Department. I am interested in data pipleines, big data ,machine learning and I am trying to improve myself in this regard. I have developed projects in programming languages such as Java, Python, C, C#. I have experienced in DevOps.
 
 🌱 I’m currently learning Data Science
 
